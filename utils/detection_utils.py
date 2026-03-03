@@ -9,7 +9,7 @@ from pathlib import Path
 
 class DetectionManager:
     def __init__(self):
-        self.model_path = "/home/surendra208/Documents/jaya/aimoodmate/ai_app/best.pt"
+        self.model_path = "best.pt"
         self.model = None
         self.class_names = {
             0: "Stones / Stone Pillars / Stone Structures",
