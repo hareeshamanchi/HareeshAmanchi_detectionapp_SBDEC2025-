@@ -10,3 +10,4 @@ plotly
 pytube
 reportlab
 Pillow==10.0.1
+streamlit-option-menu
